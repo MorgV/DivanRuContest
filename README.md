@@ -56,9 +56,9 @@ export default App;
 
 ## Скриншоты
 ### Задание номер 1: Верстка 
-![Интерфейс](./screen/task1)
+![Верстка](./screen/task1.PNG)
 
 ### Задание номер 2 `PriceInput`:
-![PriceInput](https://via.placeholder.com/600x300.png?text=PriceInput+Component)
+![PriceInput](./screen/task2.PNG)
 
 
