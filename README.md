@@ -44,7 +44,7 @@ task2 создан для участия в конкурсе DivanRu. Он со�
 
 # task1
 
-![task1](./screen/task2.PNG)
+![task1](./screen/task1.PNG)
 
 # task2
 
