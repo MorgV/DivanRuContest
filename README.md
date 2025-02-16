@@ -1,20 +1,37 @@
 # Проект DivanRuContest
 
 ## Описание
-Этот проект создан для участия в конкурсе DivanRu. Он содержит компонент `PriceInput`, который позволяет вводить сумму в заданном диапазоне.
+Этот проект создан для участия в конкурсе DivanRu. Он содержит компонент `PriceInput`, который позволяет вводить сумму в заданном диапазоне - task2. И резиновую верстку - task1
 
-## Установка
+## task1
 1. Клонируйте репозиторий:
    ```sh
    git clone https://github.com/MorgV/DivanRuContest.git
    ```
-2. Установите зависимости:
+2. Перейдите в папку с проектом:
+   ```sh
+   cd task1
+   ```
+3. Запустите с помощью Live Server:
+   ```sh
+   https://www.npmjs.com/package/live-server
+   ```
+## task2
+1. Клонируйте репозиторий:
+   ```sh
+   git clone https://github.com/MorgV/DivanRuContest.git
+   ```
+2. Перейдите в папку с проектом:
+   ```sh
+   cd task2
+   ```   
+3. Установите зависимости:
    ```sh
    npm install
    ```
-3. Запустите проект:
+4. Запустите проект:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Использование
@@ -38,10 +55,10 @@ export default App;
 ```
 
 ## Скриншоты
-### Интерфейс приложения:
-![Интерфейс](https://via.placeholder.com/600x300.png?text=UI+Screenshot)
+### Задание номер 1: Верстка 
+![Интерфейс](./screen/task1)
 
-### Пример компонента `PriceInput`:
+### Задание номер 2 `PriceInput`:
 ![PriceInput](https://via.placeholder.com/600x300.png?text=PriceInput+Component)
 
 
